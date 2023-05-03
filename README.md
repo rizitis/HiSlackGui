@@ -6,7 +6,7 @@ Download HiSlackGui.sh script and place it in your
 ```
 $HOME/.config/hikari/
 ```
-EDIT your or crate if not exist (just an empty plain text file)
+EDIT  or create if not exist (just an empty plain text file) autostart.
 ```
 $HOME/.config/hikari/autostart
 and add script`s $PATH
