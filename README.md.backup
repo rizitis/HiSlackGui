@@ -34,11 +34,11 @@ All deps are in SBo repo.
 ![HiSlackGui](https://github.com/rizitis/HiSlackGui/raw/main/Hikari%20Slackware%20Gui.png)
 If you have installed https://github.com/rizitis/Slackware-Commander
 Then you can call it from HiSlackGui
-In that case first you should command in terminal as user (not root)
+In that case first you should command in terminal as user no root
 ```
 xhost +
 ```
-And then click button to launch Slackware-Commander
+And then click to launch Slackware-Commander
 
 
 2) If you have Hybrid GPU NVIDIA you can run your apps from HiSlackGui
