@@ -23,7 +23,7 @@ Thats it, every time you boot Slackware and start Hikari desktop, user will have
 
 ![HiSlackGui](https://github.com/rizitis/HiSlackGui/raw/main/hikari-slackware.png)
 
-### RECUIRES
+### Deps
 ```
 gtkdialog
 zenity
